@@ -1,0 +1,5 @@
+La interfaz tendría un formulario para crear una nueva causa con campos como título, descripción y fecha.
+También mostraría una lista de causas disponibles para que los usuarios puedan consultarlas fácilmente.
+Cada causa tendría un botón de "Apoyar" para registrar el respaldo de los usuarios.
+Junto a cada causa se visualizaría un contador con la cantidad de apoyos recibidos.
+La interfaz sería clara, sencilla y fácil de usar, sin mostrar información privada o datos personales de los usuarios.
